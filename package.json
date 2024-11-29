@@ -1,5 +1,5 @@
 {
-	"name": "@cancidas/dom-to-svg",
+	"name": "@lizychy0329/dom-to-svg",
 	"version": "0.12.17",
 	"description": "Take SVG screenshots of DOM elements",
 	"main": "lib/index.js",
