@@ -1,6 +1,6 @@
 {
 	"name": "@lizychy0329/dom-to-svg",
-	"version": "0.12.17",
+	"version": "0.12.18",
 	"description": "Take SVG screenshots of DOM elements",
 	"main": "lib/index.js",
 	"sideEffects": false,
