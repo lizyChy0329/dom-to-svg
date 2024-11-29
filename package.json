@@ -1,6 +1,6 @@
 {
 	"name": "@cancidas/dom-to-svg",
-	"version": "0.12.16",
+	"version": "0.12.17",
 	"description": "Take SVG screenshots of DOM elements",
 	"main": "lib/index.js",
 	"sideEffects": false,
@@ -10,7 +10,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/AhmedBG/dom-to-svg"
+		"url": "https://github.com/lizyChy0329/dom-to-svg"
 	},
 	"browserslist": [
 		"last 2 Chrome versions",

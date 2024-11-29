@@ -1,3 +1,5 @@
+dom-to-svg
+
 # DOM to SVG
 
 [![npm](https://img.shields.io/npm/v/dom-to-svg)](https://www.npmjs.com/package/dom-to-svg)
