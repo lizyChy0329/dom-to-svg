@@ -1,4 +1,4 @@
-dom-to-svg
+This library is forked from @cancidas/dom-to-svg, to solve the problem of the outgoing icon content-type being an application/octet-stream error.
 
 # DOM to SVG
 
