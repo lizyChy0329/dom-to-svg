@@ -17,7 +17,7 @@ You can find the source code at [github.com/felixfbecker/svg-screenshots](https:
 ## Usage
 
 ```js
-import { documentToSVG, elementToSVG, inlineResources, formatXML } from 'dom-to-svg'
+import { documentToSVG, elementToSVG, inlineResources, formatXML } from '@lizychy0329/dom-to-svg'
 
 // Capture the whole document
 const svgDocument = documentToSVG(document)
